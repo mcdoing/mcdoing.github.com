@@ -19,7 +19,6 @@ layout: default
 <p>先在本地新建一个文件，格式为：创建日期-姓名.markdown，比如2013-07-27-zhaolingjun.markdown。这个文件中的内容就是你的档案。档案包括三部分：题头、必填内容和自选内容。</p>
 
 <p>题头见下图，只需要修改title和excerpt。把title:后的改为你的名字，excerpt:后改为你的一句话介绍（它将出现在首页）。</p>
-<img src='/css/images/help1.png' id='HelpPhoto1'>
 
 <p>下面说说必填内容。现在，把你所学的东西做个分类吧！参见<a rel="address" href="http://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6">维基百科</a>对计算机科学领域的分类。</p>
 <ul>
@@ -52,10 +51,7 @@ layout: default
 
 <p>如果你在“1、下载范例”采用第一种方法，那么现在把这个档案放在_posts中，并用git上传，用户名和密码已经提供过了哦。</p>
 
-<p>如果你在“1、下载范例”采用第二种方法，进入<a rel="address" href="https://github.com/mcdoing/mcdoing.github.com/tree/master/_posts">这里</a>， 在这里新增一个文件（见下图），在“Name your file"中写上档案的文件名，把档案中的东西copy到黑框里，核对一下格式，然后点"Commit New File", 就可以了！</p>
-<img src='/css/images/help2.png' id='HelpPhoto2'>
-<img src='/css/images/help3.png' id='HelpPhoto3'>
-
+<p>如果你在“1、下载范例”采用第二种方法，进入：？， 在这里新增一个文件（见下图），写上档案的文件名，把档案中的东西copy到黑框里，核对一下格式，然后点"Commit New File", 就可以了！</p>
 
 <h4>4、看效果和修改</h4>
 
