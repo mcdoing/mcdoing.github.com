@@ -23,4 +23,4 @@ layout: post
 
 致力于做自己感兴趣的事。
 
-<a target=?>博客</a>
+博客[<a target=?>?</a>]
