@@ -1,8 +1,14 @@
 ---
 layout: default
-title: Chad Kruse | Entrepreneur
 ---
 
-    {% include header.html %}
-
-    {% include filtered-pages/all.html %}
+<ul class="posts">
+  {% for post in site.posts %}
+    <li>
+        <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <p>
+            {{ post.excerpt }}
+          </p>
+      </li>
+  {% endfor %}
+</ul>

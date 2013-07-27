@@ -1,3 +1,5 @@
-markdown: rdiscount
+auto: false
+server: false
+server_port: 3000
 pygments: true
-permalink: pretty
+exclude: script/deploy, script/newpost
