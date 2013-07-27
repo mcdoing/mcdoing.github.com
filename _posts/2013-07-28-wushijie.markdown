@@ -1,0 +1,28 @@
+---
+title: 伍世杰
+excerpt: 2012级，研发部，正在学嵌入式开发［起步中］＋建blog
+layout: post
+---
+###编程语言及编译器
+ - c/c++
+ - python【抽奖网页】
+ - java
+ - Html【圣诞闯关游戏】
+ - Linux Bash
+ - SQL
+
+###软件工程
+ - android应用【校园新闻订阅app】
+ - 校园信息平台－android+ios+web【web进行中】
+
+###计算机系统结构
+ - linux（略懂皮毛）
+ 
+###数据库
+ - sqlite
+ 
+###其他
+ - 天文
+
+其实很多东西都很有趣嘛。
+
