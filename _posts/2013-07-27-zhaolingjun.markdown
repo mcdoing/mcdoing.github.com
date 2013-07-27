@@ -25,4 +25,4 @@ layout: post
 
 崇尚learn by doing。
 
-我的博客是：<a href="https://cathvoilet.github.io">https://cathvoilet.github.io</a>
+我的博客是：<a href="https://cathvoilet.github.com">https://cathvoilet.github.com</a>
