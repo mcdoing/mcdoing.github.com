@@ -1,6 +1,6 @@
 ---
 title: 赵凌君
-excerpt: 正在学network
+excerpt: 2012级，研发部，正在学network
 layout: post
 ---
 ###编程语言及编译器
