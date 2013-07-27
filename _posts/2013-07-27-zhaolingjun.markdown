@@ -1,6 +1,6 @@
 ---
 title: 赵凌君
-excerpt: 正在看network方面的东西
+excerpt: 正在学network
 layout: post
 ---
 ###编程语言及编译器
