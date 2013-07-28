@@ -3,3 +3,4 @@ server: false
 server_port: 3000
 pygments: true
 exclude: script/deploy, script/newpost
+markdown: rdiscount
