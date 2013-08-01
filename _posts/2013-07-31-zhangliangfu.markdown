@@ -29,9 +29,6 @@ layout: post
  - SYSU mirror (中大镜像站）
  - MCNews
 
-###计算机系统结构
- - linux（仅限于表层，对服务器架构什么的还不懂）
-
 ###数据库
  - mysql
  - mongodb
